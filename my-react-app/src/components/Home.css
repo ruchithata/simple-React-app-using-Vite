@@ -1,0 +1,35 @@
+.home-container {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    margin-top: 50px;
+    background-color: #f4f4f9;
+    padding: 20px;
+    border-radius: 10px;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .home-container h1 {
+    color: #333;
+    font-size: 2.5rem;
+  }
+  
+  .home-container p {
+    color: #555;
+    font-size: 1.2rem;
+  }
+  
+  .contact-info {
+    margin-top: 20px;
+  }
+  
+  .contact-info a {
+    text-decoration: none;
+    color: #3498db;
+    font-weight: bold;
+  }
+  
+  .contact-info a:hover {
+    text-decoration: underline;
+  }
